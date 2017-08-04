@@ -9,7 +9,7 @@
         "animation",
         "animate"
     ],
-    "main": "src/index.ts",
+    "main": "dist/index.js",
     "homepage": "https://github.com/a-jie/NgxAni",
     "scripts": {
         "prepublish": "tsc",
