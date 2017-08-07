@@ -28,3 +28,4 @@ var NgxEASE = {
     'easeInOutBack': 'cubic-bezier(.68,-.55,.265,1.55)'
 };
 exports.NgxEASE = NgxEASE;
+//# sourceMappingURL=ngxease.js.map

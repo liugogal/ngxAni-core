@@ -222,3 +222,4 @@ NgxAni = __decorate([
     __metadata("design:paramtypes", [ngxcss_1.NgxCss])
 ], NgxAni);
 exports.NgxAni = NgxAni;
+//# sourceMappingURL=ngxani.js.map

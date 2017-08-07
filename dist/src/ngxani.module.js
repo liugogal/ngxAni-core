@@ -20,3 +20,4 @@ NgxAniModule = __decorate([
     })
 ], NgxAniModule);
 exports.NgxAniModule = NgxAniModule;
+//# sourceMappingURL=ngxani.module.js.map
