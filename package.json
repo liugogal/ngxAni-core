@@ -10,7 +10,7 @@
         "animate"
     ],
     "main": "dist/index.js",
-    "homepage": "https://github.com/a-jie/NgxAni",
+    "homepage": "https://github.com/liugogal/NgxAni",
     "scripts": {
         "prepublish": "tsc",
         "ng": "ng",
@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/a-jie/NgxAni.git"
+        "url": "https://github.com/liugogal/NgxAni.git"
     },
     "dependencies": {},
     "devDependencies": {
