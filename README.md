@@ -14,7 +14,7 @@ Quick Start
 Install and manage NgxAni with npm.
 
 ```
-$ npm install ngxani --save
+$ npm install https://github.com/liugogal/NgxAni.git --save
 ```
 
 import and use the NgxAni library.
