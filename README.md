@@ -61,3 +61,4 @@ The next step I want to bring it to React[https://facebook.github.io/react/](htt
 ## License
 
 [The BSD License](https://opensource.org/licenses/BSD-3-Clause).
+# ngxAni-core
